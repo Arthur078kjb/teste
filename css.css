@@ -1,0 +1,17 @@
+
+*{
+   font-family: 'inter', sans-seri 
+   color: blue;
+}
+body{
+   background-color:aqua;
+}
+div {
+  background-color:blue;
+  width:400px;
+  width:400px;
+  margin: 50px auto;
+}
+h1,p{
+    padding: 30px 50px;
+}
